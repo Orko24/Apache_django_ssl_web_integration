@@ -1,0 +1,1 @@
+These configs are designed to integrate an apache web server with a django app with SSL connection Enjoy!
